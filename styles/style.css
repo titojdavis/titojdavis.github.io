@@ -655,9 +655,9 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
   #selfie{margin-right: 0;}
   #LtCdiv{width: 70%; left: auto; margin: 0 auto;}
-  #LtC{text-align: center; line-height: 2;}
+  #LtC{text-align: left; line-height: 2;}
   #RtCdiv{width: 70%; left: auto; margin: 0 auto;}
-  #RtC{text-align: center; line-height: 2;}
+  #RtC{text-align: left; line-height: 2;}
 
   #clickhere{text-align: center; margin-right: auto;}
 
@@ -694,10 +694,10 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     width: 70%;
   }
   #Pr{
-    text-align: center;
+    text-align: left;
   }
   #Pl{
-    text-align: center;
+    text-align: left;
   }
 }
 /*Mobile Styles*/
