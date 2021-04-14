@@ -11,6 +11,8 @@ a[href], input[type='submit'], input[type='image'], label[for], select, button, 
        cursor: pointer;
 }
 /*L/R aligned text spans col-5*/
+#cent{text-align: center;line-height: 2;}
+
 #Pr{
   text-align: right; line-height: 2;
 }
@@ -653,6 +655,7 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 @media only screen and (max-width: 1030px) {
 
+  #cent{text-align: left;}
   #selfie{margin-right: 0;}
   #LtCdiv{width: 70%; left: auto; margin: 0 auto;}
   #LtC{text-align: left; line-height: 2;}
