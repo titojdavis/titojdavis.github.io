@@ -107,9 +107,11 @@ footer{
   position: relative;
   width: 100%;
 }
-#content-wrapper{
-  padding-bottom: 20rem;
-  width: 100%;
+#content-wrapper {
+	padding-bottom: 20rem;
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
 [class^="col-"] {
@@ -136,6 +138,11 @@ footer{
 .col-11 { width: 91.3461538462% }
 .col-12 { width: 100%; margin: 0 }
 
+.row {
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+}
 
 /* Mobile styles go first, without media queries. */
 
