@@ -32,8 +32,11 @@ a[href], input[type='submit'], input[type='image'], label[for], select, button, 
   margin: 0 auto; width: 65.3846153846%;
 }
 #clickhere{text-align: right;padding-bottom: 5%; margin-right: 13em}
-#story{
-	text-align:left;
+#story {
+	text-align: left;
+	margin-left: 8em;
+	padding-bottom: 2%;
+	line-height:2;
 }
 
 /*L/R aligned text spans col-8*/
