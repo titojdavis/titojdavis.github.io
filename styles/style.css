@@ -32,6 +32,9 @@ a[href], input[type='submit'], input[type='image'], label[for], select, button, 
   margin: 0 auto; width: 65.3846153846%;
 }
 #clickhere{text-align: right;padding-bottom: 5%; margin-right: 13em}
+#story{
+	text-align:left;
+}
 
 /*L/R aligned text spans col-8*/
 #LtCdiv{margin-left: 8em; width: 65.3846153846%}
