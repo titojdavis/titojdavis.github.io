@@ -34,7 +34,6 @@ a[href], input[type='submit'], input[type='image'], label[for], select, button, 
 #clickhere{text-align: right;padding-bottom: 5%; margin-right: 13em}
 #story {
 	text-align: left;
-	line-height:2;
 	padding-left:10%;
 	padding-right:10%;
 }
