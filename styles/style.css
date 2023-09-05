@@ -661,6 +661,10 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 		background-color: transparent;
 		box-shadow: none;
 	}
+	#storyC {
+		padding-right: 10%;
+		padding-left: 10%;
+	}
 }
 @media only screen and (max-width: 1320px) {
   #charpic{ height: 40rem; }
