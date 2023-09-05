@@ -39,8 +39,8 @@ a[href], input[type='submit'], input[type='image'], label[for], select, button, 
 	padding-bottom:1%;
 }
 #storyC {
-	padding-right:21%;
-	padding-left: 21%;
+	padding-right:10%;
+	padding-left: 10%;
 }
 #wordcount {
 	padding-bottom: 3%;
@@ -662,8 +662,8 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 		box-shadow: none;
 	}
 	#storyC {
-		padding-right: 10%;
-		padding-left: 10%;
+		padding-right: 7%;
+		padding-left: 7%;
 	}
 }
 @media only screen and (max-width: 1320px) {
@@ -737,5 +737,8 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     footer {height:20rem;}
     #charpic{ height: auto; width: 90%; margin-left: 2em;}
     #specpic{ height: auto; width: 90%;}
-
+	#storyC {
+		padding-right: 2%;
+		padding-left: 2%;
+	}
 }
