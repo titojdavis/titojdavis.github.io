@@ -39,9 +39,8 @@ a[href], input[type='submit'], input[type='image'], label[for], select, button, 
 	padding-bottom:1%;
 }
 #storyC {
-	width: 68%;
+	padding-right:21%;
 	padding-left: 21%;
-
 }
 #wordcount {
 	padding-bottom: 3%;
