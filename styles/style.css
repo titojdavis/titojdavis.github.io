@@ -727,7 +727,7 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     h2 {font-size: 6vw;}
     h3 {font-size: 5vw;}
     p {font-size: 3.6vw;}
-    [class*="col-"] { width:100%; }
+    [class*="col-"] { width:90%; }
     #content-wrapper {padding-bottom: 23rem;}
     footer {height:20rem;}
     #charpic{ height: auto; width: 90%; margin-left: 2em;}
