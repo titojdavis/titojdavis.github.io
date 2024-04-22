@@ -690,7 +690,8 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   #charpicdiv{
       position: relative;
       margin: 0 auto;
-      left: 0em; right: 0em; bottom: 0em;
+      left: 0em; right: 0em;
+	  padding-bottom: 15px;
     }
   #confpicdiv{
     display: none;
