@@ -691,7 +691,7 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
       position: relative;
       margin: 0 auto;
       left: 0em; right: 0em;
-	  padding-bottom: 35px;
+	  padding-bottom: 55px;
     }
   #confpicdiv{
     display: none;
